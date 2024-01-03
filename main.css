@@ -46,7 +46,7 @@ main::after {
 
 article {
   background-color: #fff;
-  max-width: 550px;
+  max-width: 530px;
   padding: 30px;
   border-radius: 15px;
   z-index: 999;
